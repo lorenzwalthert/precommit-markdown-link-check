@@ -12,6 +12,6 @@ For markdown-link-check: https://github.com/tcort/markdown-link-check
 Add this to your `.pre-commit-config.yaml`:
 
     -   repo: https://github.com/lorenzwalthert/precommit-markdown-link-check
-        rev: ''  # Use the sha / tag you want to point at
+        rev: '0.0.0.9001'  # Use the sha / tag you want to point at
         hooks:
         -   id: markdown-link-check
