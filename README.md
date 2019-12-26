@@ -15,3 +15,9 @@ Add this to your `.pre-commit-config.yaml`:
         rev: v0.0.0.9002  # Use the sha / tag you want to point at
         hooks:
         -   id: markdown-link-check
+
+### Limitations
+
+- only works for README files and only for one at the time, because
+  of tcort/markdown-link-check#78. In theory, we could use this also to check
+  links in documentation and vignettes otherwise.
