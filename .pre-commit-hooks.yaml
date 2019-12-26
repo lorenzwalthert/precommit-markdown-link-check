@@ -1,0 +1,8 @@
+-   id: markdown-link-check
+    name: markdown-link-check
+    entry: markdown-link-check
+    language: node
+    files: 'README\.(Rmd|rmd|md)$'
+    args: []
+    require_serial: false
+    additional_dependencies: ["markdown-link-check"]

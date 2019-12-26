@@ -1,0 +1,5 @@
+{
+    "name": "precommit-hooks-markdown-link-check",
+    "description": "Pre-commit repo for markdown link checking",
+    "version": "0.0.900"
+}
