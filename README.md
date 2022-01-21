@@ -1,6 +1,11 @@
 markdown-link-check mirror
 ================
 
+**DEPRECATED** 
+
+Please use the hooks directly in https://github.com/tcort/markdown-link-check. 
+
+
 Mirror of markdown-link-check package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
